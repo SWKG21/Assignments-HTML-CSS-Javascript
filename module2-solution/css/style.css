@@ -22,7 +22,7 @@ section > div {
 
 section p {
   border: 1px solid black;
-  padding: 15% 5% 5% 5%;
+  padding: 12% 5% 5% 5%;
 }
 
 #chicken {
@@ -33,7 +33,7 @@ section p {
   text-align: center;
   border: 1px solid black;
   width: auto;
-  padding: 3%;
+  padding: 2%;
   font-size: 125%;
 }
 #beef {
@@ -44,7 +44,7 @@ section p {
   text-align: center;
   border: 1px solid black;
   width: auto;
-  padding: 3%;
+  padding: 2%;
   font-size: 125%;
 }
 #sushi {
@@ -55,7 +55,7 @@ section p {
   text-align: center;
   border: 1px solid black;
   width: auto;
-  padding: 3%;
+  padding: 2%;
   font-size: 125%;
 }
 
